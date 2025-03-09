@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Naveen06ai
 - 👀 I’m interested in AI and web web development 
 - 🌱 I’m currently learning python , java script.....
-- 📫 How to reach me : naveensivakumar2510@gmail.com
-- 😄 Pronouns: ........
+
   
 
 <!---
