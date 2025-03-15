@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naveen06ai
+- 👋 Hi, I’m @naveen-ai-dev
 - 👀 I’m interested in AI and web web development 
 - 🌱 I’m currently learning python , java script.....
 
