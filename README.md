@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @naveen-ai-dev
-- 👀 I’m interested in AI and web web development 
-- 🌱 I’m currently learning python , java script.....
+- # About Me
+- I'm an Engineering student 🚀 passionate about AI development 🤖, always exploring new tech concepts 💡 and building innovative solutions🔍 🌟.
 - ##  I Code in
 - <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 - <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+
+- ## Tools I use
+- <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+- <img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>
+- 
 
   
 
