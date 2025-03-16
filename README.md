@@ -7,8 +7,7 @@
 
 - ## Tools I use
 - <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-- <img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>
-- 
+- <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/chatgpt.png" alt="chatgpt"/>
 
   
 
