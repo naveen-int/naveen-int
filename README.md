@@ -9,8 +9,7 @@
 - <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 - <img width="48" height="48" src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="chatgpt--v2"/>
 
-- ## leed code stats
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/naveen-ai-dev?theme=dark&font=Esteban&ext=heatmap)
+-
 
   
 
