@@ -13,6 +13,8 @@
 - ![LeetCode Stats](https://leetcard.jacoblin.cool/naveen-ai-dev?theme=dark&font=Archivo&ext=heatmap)
 - ## Hacker Rank
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/naveen_aidev_06)
+- ![My bradge](![Screenshot 2025-04-05 210343](https://github.com/user-attachments/assets/dfdd01a1-b4fb-4475-b6f7-61be79fb2909)
+)
 
 - ## GitHub
   
