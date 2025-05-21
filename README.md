@@ -10,6 +10,7 @@
 - <img width="48" height="48" src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="chatgpt--v2"/>
 
 - ## Leet code stats
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/naveen-ai-dev?theme=dark&font=Sunflower&ext=heatmap)
 - 
 - ## Hacker Rank
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/naveen_aidev_06)
@@ -18,7 +19,7 @@
 
 - ## GitHub
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen-ai-dev&bg_color=000000&color=ffffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen-int&bg_color=000000&color=ffffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 
