@@ -10,7 +10,7 @@
 - <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
 
 - ## Leet code stats
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/naveen-ai-dev?theme=dark&font=Sunflower&ext=heatmap)
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/naveen-int?theme=dark&font=Sunflower&ext=heatmap)
 - 
 - ## Hacker Rank
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/naveen_aidev_06)
