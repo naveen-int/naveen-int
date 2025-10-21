@@ -4,13 +4,18 @@
 - ##  I Code in
 - <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 - <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+- <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+
+  
 
 - ## Tools I use
 - <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 - <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
+- <img width="32" height="32" src="https://img.icons8.com/windows/32/kaggle.png" alt="kaggle"/>
+- <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
 
 - ## Leet code stats
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/naveen-int?theme=dark&font=Sunflower&ext=heatmap)
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/naveen-io?theme=dark&font=Sunflower&ext=heatmap)
 - 
 - ## Hacker Rank
 - [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/naveen_aidev_06)
